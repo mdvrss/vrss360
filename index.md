@@ -1,9 +1,9 @@
 ## Virtual Reality Simulator Sickness
 
-## FRAMEWORK
+# FRAMEWORK
 
 
-## DATASET
+# DATASET
 
 -1min
 
@@ -12,7 +12,7 @@
 -5min
 
 
-## Feature Map
+# Feature Map
 
 -Codes Link
 
