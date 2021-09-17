@@ -1,9 +1,9 @@
 ## Virtual Reality Simulator Sickness
 
-# FRAMEWORK
+# Framework
 
 
-# DATASET
+# Dataset
 
 -1min
 
